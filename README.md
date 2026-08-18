@@ -1,15 +1,15 @@
 # design-pattern-examples
 Collection of design pattern examples
 
-# Creational Patterns
+### Creational Patterns
 - Abstract Factory
 - Singleton
 
-# Structural Patterns
+### Structural Patterns
 - Adapter
 - Decorator
 
-# Behavioural Pattterns
+### Behavioural Pattterns
 - Iterator
 - Observer
 - State
